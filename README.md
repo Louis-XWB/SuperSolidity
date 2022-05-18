@@ -11,3 +11,5 @@
 **课程 4: 数据存储和作用域**：[文章](https://mirror.xyz/0x4568b760c55FAEA0129139b863124f19962B9cDE/HsM813UIJ3ziPaPe_lyq7ayYqqyIgdMJrNmtvE0xg5Q)
 
 **课程 5: 引用类型（数组和结构体）**：[文章](https://mirror.xyz/0x4568b760c55FAEA0129139b863124f19962B9cDE/jN2aFOLRWS7IsLLU1a2b7f4A8TXODiXXOLK2r08g-7I)
+
+**课程 6: 映射类型**：[文章](https://mirror.xyz/0x4568b760c55FAEA0129139b863124f19962B9cDE/PVJl3lGiUBg-ZvG8iJbsxsrPjLWndO3EPdCRcll-4uo)

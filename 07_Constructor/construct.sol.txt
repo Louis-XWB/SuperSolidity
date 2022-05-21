@@ -1,0 +1,34 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.4;
+
+contract TestConstructor{
+
+   address public owner; // 定义owner变量
+
+   // 构造函数
+   constructor() public {
+      owner = msg.sender; // 在部署合约的时候，将owner设置为部署者的地址
+   }
+
+//    多个constructor存在，编译报错
+//    constructor(address _name) public{ 
+//         name = _name;
+//     }
+
+   function test() public{
+       Y y = new Y(msg.sender);
+       y.changeName(msg.sender);
+   } 
+}
+
+contract Y{
+    address public name;
+
+    constructor(address _name) public{
+        name = _name;
+    }
+
+    function changeName(address _name) public{
+        name = _name;
+    }
+}

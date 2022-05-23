@@ -17,3 +17,5 @@
 **课程 7: 构造函数**：[文章](https://mirror.xyz/0x4568b760c55FAEA0129139b863124f19962B9cDE/fehovbMY4mOa_bHIPEwxKW5UReScCuZkeFMBDrNjfBU)
 
 **课程 8: 修饰器**：[文章](https://mirror.xyz/0x4568b760c55FAEA0129139b863124f19962B9cDE/AtN3ZbI8BUIRad47ryqbmqZcEipTNB5PsAw8PjpFbVs)
+
+**课程 9: 事件**：[文章](https://mirror.xyz/0x4568b760c55FAEA0129139b863124f19962B9cDE/A6iLvKL-A1lkZZhD-IopTcbe_kNyNcuaWxorXuPwwcA)

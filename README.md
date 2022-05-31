@@ -19,3 +19,5 @@
 **课程 8: 修饰器**：[文章](https://mirror.xyz/0x4568b760c55FAEA0129139b863124f19962B9cDE/AtN3ZbI8BUIRad47ryqbmqZcEipTNB5PsAw8PjpFbVs)
 
 **课程 9: 事件**：[文章](https://mirror.xyz/0x4568b760c55FAEA0129139b863124f19962B9cDE/A6iLvKL-A1lkZZhD-IopTcbe_kNyNcuaWxorXuPwwcA)
+
+**课程 9: 继承**：[文章](https://mirror.xyz/0x4568b760c55FAEA0129139b863124f19962B9cDE/QDw3U66hrvHpQoxixgZ-U6bw_S9cfiREi_3-_O8ez8o)

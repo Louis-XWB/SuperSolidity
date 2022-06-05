@@ -23,3 +23,5 @@
 **课程 10: 继承**：[文章](https://mirror.xyz/0x4568b760c55FAEA0129139b863124f19962B9cDE/QDw3U66hrvHpQoxixgZ-U6bw_S9cfiREi_3-_O8ez8o)
 
 **课程 11: 抽象合约和接口**：[文章](https://mirror.xyz/0x4568b760c55FAEA0129139b863124f19962B9cDE/7m6Fpupeqz0XOJ0NmuSBRGWqS-dqsKEvrt4seq27m6w)
+
+**课程 12: 库**：[文章](https://mirror.xyz/0x4568b760c55FAEA0129139b863124f19962B9cDE/2OyISzQCoAdu2UC7eWW08CRduEQ9dS_sJDn9X75Rf3I)

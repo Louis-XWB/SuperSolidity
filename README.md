@@ -27,3 +27,5 @@
 **课程 12: 库**：[文章](https://mirror.xyz/0x4568b760c55FAEA0129139b863124f19962B9cDE/2OyISzQCoAdu2UC7eWW08CRduEQ9dS_sJDn9X75Rf3I)
 
 **课程 13: 异常**：[文章](https://mirror.xyz/0x4568b760c55FAEA0129139b863124f19962B9cDE/PWammIEmFtRI17TeU6iELIj7pUuEspTIO4cROE5S9ic)
+
+**课程 14: 常量**：[文章](https://mirror.xyz/0x4568b760c55FAEA0129139b863124f19962B9cDE/bwucLvsHJBH0us795ivegV2MkuaDxrBq3yJEMEvxeyA)

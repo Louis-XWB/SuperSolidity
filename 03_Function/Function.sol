@@ -62,6 +62,15 @@ contract Function{
         int testNum = this.pureAdd(3) + 1;
         returnNum += testNum;
     }
+    
+    //overload
+    function saySomething() public pure returns(string memory){
+        return("Nothing");
+    }
+
+    function saySomething(string memory something) public pure returns(string memory){
+        return(something);
+    }
 
 }
 
